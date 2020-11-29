@@ -1,10 +1,36 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin: 2em 0 0;
+}
+
 .App {
   text-align: center;
+  margin-bottom: 3em;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+hr {
+  width: 35%;
+  margin-top: 2.5em;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #000000;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  width: 80%;
+  margin: 4em auto;
+}
+
+span {
+  font-weight: 700;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -32,6 +58,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

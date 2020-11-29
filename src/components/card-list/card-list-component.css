@@ -1,0 +1,25 @@
+.card-list {
+    width: 90vw;
+    margin: 0 auto;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 40px 1fr 40px 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 40px;
+    text-align: center;
+}
+
+@media screen and (max-width: 1075px) {
+    .card-list {
+        -ms-grid-columns: 1fr 20px 1fr;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 20px;
+    }
+}
+
+@media screen and (max-width: 625px) {
+    .card-list {
+        -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    }
+}

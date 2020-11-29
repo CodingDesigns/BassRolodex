@@ -1,0 +1,41 @@
+body {
+    background-color: #ffffff;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    border: 5px solid #000000;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    margin: 0 auto;
+    -moz-box-shadow: 10px 10px 25px 0px #d2d2d2;
+    -webkit-box-shadow: 10px 10px 25px 0px #d2d2d2;
+    -o-box-shadow: 10px 10px 25px 0px #d2d2d2;
+    box-shadow: 10px 10px 25px 0px #d2d2d2;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+img {
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+h3 {
+    font-weight: 400;
+    font-style: italic;
+}

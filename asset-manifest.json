@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bassrolodex/static/css/main.ecd0d1f4.chunk.css",
+    "main.js": "/bassrolodex/static/js/main.36b23a80.chunk.js",
+    "main.js.map": "/bassrolodex/static/js/main.36b23a80.chunk.js.map",
+    "runtime-main.js": "/bassrolodex/static/js/runtime-main.91e508a1.js",
+    "runtime-main.js.map": "/bassrolodex/static/js/runtime-main.91e508a1.js.map",
+    "static/js/2.aabe690b.chunk.js": "/bassrolodex/static/js/2.aabe690b.chunk.js",
+    "static/js/2.aabe690b.chunk.js.map": "/bassrolodex/static/js/2.aabe690b.chunk.js.map",
+    "static/js/3.6e535c53.chunk.js": "/bassrolodex/static/js/3.6e535c53.chunk.js",
+    "static/js/3.6e535c53.chunk.js.map": "/bassrolodex/static/js/3.6e535c53.chunk.js.map",
+    "index.html": "/bassrolodex/index.html",
+    "static/css/main.ecd0d1f4.chunk.css.map": "/bassrolodex/static/css/main.ecd0d1f4.chunk.css.map",
+    "static/js/2.aabe690b.chunk.js.LICENSE.txt": "/bassrolodex/static/js/2.aabe690b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91e508a1.js",
+    "static/js/2.aabe690b.chunk.js",
+    "static/css/main.ecd0d1f4.chunk.css",
+    "static/js/main.36b23a80.chunk.js"
+  ]
+}
